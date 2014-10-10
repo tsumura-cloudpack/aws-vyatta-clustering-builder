@@ -2,8 +2,8 @@ aws-vyatta-clustering-builder.sh
 ---
 
 ## Overview
-VyattaCore clustering auto configuretionon tool for AmazonWebServices
-Can build HA-Clustring on VPC.
+VyattaCore clustering auto configuretionon tool for AmazonWebServices.  
+Can build HA-Clustring on VPC.  
 
 ## Supported Version
 VyattaCore 6.6 supported.
@@ -19,6 +19,5 @@ VyattaCore 6.6 supported.
 
 ### Licence
 
-Non licence.
-
-non-support and AS-IS provided.
+Non licence.  
+non-support and AS-IS provided.  
